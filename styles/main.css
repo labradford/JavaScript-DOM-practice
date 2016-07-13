@@ -1,0 +1,123 @@
+/*
+
+colors:
+
+*/
+
+
+header, mav, section, aside, article, footer, video, audio, main {
+    display: block;
+    
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+    
+}
+
+header {
+    background-color: #069;
+    color: #fff;
+}
+
+header h1 {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, .6);
+    text-align: center;
+    padding: .5em;
+}
+
+article {
+    max-width: 600px;
+    margin: 1em auto;
+}
+
+footer {
+    background-color: #069;
+    text-align: center;
+    color: #ccc;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 70%;
+    padding: .2em;
+}
+
+button {
+    color: #fff;
+    background-color: #F5b362;
+    padding: .5em 1em;
+    font-size: 1.5em;
+}
+
+#clicker {
+    color: #fff;
+    background-color: #002644;
+    padding: .5em 1em;
+    font-size: 1.5em;
+}
+
+#button3 {
+    color: #fff;
+    background-color: #330066;
+    padding: .5em 1em;
+    font-size: 1.5em;
+}
+
+#button4 {
+    color: #fff;
+    background-color: #550000;
+    padding: .5em 1em;
+    font-size: 1.5em;
+}
+
+#button5 {
+    color: #fff;
+    background-color: #555500;
+    padding: .5em 1em;
+    font-size: 1.5em;
+}
+
+#button7 {
+    color: #fff;
+    background-color: #ff00ff;
+    padding: .5em 1.5em;
+    font-size: 1em;
+}
+
+#textInput {
+    padding: 1em;
+}
+
+#button8 {
+    color: #fff;
+    background-color: #ff9900;
+    padding: .5em 1em;
+    font-size: 1.5em;
+}
+
+#start {
+    color: #fff;
+    background-color: #009900;
+    padding: .5em 1em;
+    font-size: 1.5em;
+}
+
+#stop {
+    color: #fff;
+    background-color: #ff0000;
+    padding: .5em 1em;
+    font-size: 1.5em;
+}
+
+#button10 {
+    color: #fff;
+    background-color: #ff0000;
+    padding: .15em 1em;
+    font-size: 1em;
+}
+
